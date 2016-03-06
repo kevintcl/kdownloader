@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi" severity="ignore">
+        <ignore path="src/com/android/providers/downloads/DownloadProvider.java" />
+        <ignore path="src/com/android/providers/downloads/DownloadStorageProvider.java" />
+        <ignore path="src/com/android/providers/downloads/RealSystemFacade.java" />
+    </issue>
+</lint>
